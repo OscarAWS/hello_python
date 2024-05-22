@@ -19,6 +19,7 @@ print(myValue)
 print(type(myValue))
 print(str(myValue) + " is of the data type " + str(type(myValue)))
 
+
 # Presentar el tipo de dato booleano
 myValue=False
 print(myValue)
