@@ -1,5 +1,6 @@
 print("Python has three numeric types: int, float, and complex")
 
+
 # Creación de una variable
 myValue=1
 print(myValue)
